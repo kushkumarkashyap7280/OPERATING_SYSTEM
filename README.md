@@ -30,6 +30,13 @@
   - Real-time Operating Systems (RTOS)
   - Distributed Operating Systems
 
+- [Part 3: Multitasking vs Multithreading](part_003/README.md)
+  - Programs, Processes, and Threads
+  - Multitasking vs Multithreading Comparison
+  - Thread Scheduling
+  - Context Switching: Thread vs Process
+  - Benefits and Challenges of Multithreading
+
 ## About
 
 This repository houses a comprehensive collection of educational materials focusing on operating system concepts, architecture, and functionality. The content is meticulously organized into sequential parts to facilitate progressive learning from fundamental to advanced topics.
