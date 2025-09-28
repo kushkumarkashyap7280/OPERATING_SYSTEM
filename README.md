@@ -43,6 +43,14 @@
   - Types of Kernel Architecture
   - User Mode and Kernel Mode Communication
   - Inter-Process Communication (IPC) Mechanisms
+  
+- [Part 5: System Calls](part_005/README.md)
+  - Introduction to System Calls
+  - How Applications Interact with the Kernel
+  - Types of System Calls
+  - System Call Examples: Windows vs. Unix
+  - System Call Implementation and Flow
+  - Benefits and Limitations
 
 ## About
 
