@@ -36,6 +36,13 @@
   - Thread Scheduling
   - Context Switching: Thread vs Process
   - Benefits and Challenges of Multithreading
+  
+- [Part 4: Components of an Operating System](part_004/README.md)
+  - Core System Components (Kernel, User Space, Shell)
+  - Kernel Functions
+  - Types of Kernel Architecture
+  - User Mode and Kernel Mode Communication
+  - Inter-Process Communication (IPC) Mechanisms
 
 ## About
 
