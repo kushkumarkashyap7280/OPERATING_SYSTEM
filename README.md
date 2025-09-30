@@ -52,6 +52,20 @@
   - System Call Implementation and Flow
   - Benefits and Limitations
 
+- [Part 6: Boot Process and CPU Architecture](part_006/README.md)
+  - What Happens When You Turn On Your Computer?
+  - The Boot Sequence
+  - BIOS vs UEFI
+  - Bootloader and OS Loading
+  - 32-Bit vs 64-Bit Operating Systems
+  - Advantages of 64-Bit Architecture
+
+- [Part 7: Computer Memory Hierarchy](part_007/README.md)
+  - Types of Memory in Computer Systems
+  - Registers, Cache, RAM, and Secondary Storage
+  - Memory Hierarchy Performance Comparison
+  - Cost, Speed, Capacity, and Volatility Trade-offs
+
 ## About
 
 This repository houses a comprehensive collection of educational materials focusing on operating system concepts, architecture, and functionality. The content is meticulously organized into sequential parts to facilitate progressive learning from fundamental to advanced topics.
